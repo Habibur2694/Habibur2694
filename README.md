@@ -18,10 +18,10 @@
 <a href="https://github.com/habibur2694" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-<a href="https://twitter.com/habibur2694" target="_blank">
+<a href="https://twitter.com/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/habibur2694" target="_blank">
+<a href="https://www.instagram.com/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://www.youtube.com/c/habibur2694" target="_blank">
